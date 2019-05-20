@@ -1,0 +1,1 @@
+Here is the tehnical report in a pdf format and written in LaTeX. The file main.tex contains the LaTeX code for the documentation file.
